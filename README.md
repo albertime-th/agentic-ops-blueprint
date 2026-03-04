@@ -1,12 +1,15 @@
 # agentic-ops-blueprint
 “Enterprise-grade AI Agentic Workflow Blueprints for Business Automation.”（企业级 AI 代理工作流自动化蓝图）。
+
 🚀 Agentic-Ops-Blueprint
 Redefining Enterprise Automation for 2026: From Static Chatbots to Autonomous Agentic Workflows.
 重塑 2026 企业自动化：从静态聊天机器人进化为自主代理工作流。
+
 💼 Business Vision | 商业愿景
 [EN] This repository serves as a standardized "Agentic Ops" framework built with Dify, Coze, and Trae. We move beyond simple LLM wrappers to build "Digital Employees" capable of perception, decision-making, and execution, delivering a 300% boost in operational efficiency for SMEs.
 
 [CN] 本仓库是基于 Dify, Coze 和 Trae 构建的标准“代理化运营”（Agentic Ops）框架。我们不仅开发 AI 接口，更致力于构建具备感知、决策和执行能力的“数字员工”，旨在为中小企业提升 300% 的运营效率。
+
 🎯 Strategic Solutions | 核心解决方案
 1. 📂 Knowledge-Centric Intelligence | 知识内化代理
 Tech Stack: Dify (RAG Pipeline) + DeepSeek-V3
